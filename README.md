@@ -48,7 +48,7 @@ This repository is intended for educational purposes only. The ebooks provided i
 
 ### Copyright Notice
 
-We respect the intellectual property rights of authors and publishers. If you are the author or publisher of any ebook found in this repository and do not wish to have it included, please contact us at [your-email@example.com](mailto:your-email@example.com) and we will promptly remove it.
+We respect the intellectual property rights of authors and publishers. If you are the author or publisher of any ebook found in this repository and do not wish to have it included, please contact us at [unofficially111@gmail.com](mailto:unofficially111@gmail.com) and we will promptly remove it.
 
 ### Use at Your Own Risk
 
@@ -58,7 +58,5 @@ The information contained in these ebooks is provided "as is" without warranty o
 
 Thank you for your understanding and cooperation.
 
-## License
 
-This repository is licensed under the [MIT License](LICENSE).
 
